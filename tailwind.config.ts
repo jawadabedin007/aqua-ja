@@ -57,6 +57,17 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        // Aqua Row custom colors
+        aqua: {
+          dark: "hsl(var(--aqua-dark))",
+          brand: "hsl(var(--aqua-brand))",
+          teal: "hsl(var(--aqua-teal))",
+          light: "hsl(var(--aqua-light))",
+          green: "hsl(var(--aqua-green))",
+          "green-dark": "hsl(var(--aqua-green-dark))",
+          yellow: "hsl(var(--aqua-yellow))",
+          beige: "hsl(var(--aqua-beige))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
