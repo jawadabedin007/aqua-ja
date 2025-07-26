@@ -72,6 +72,9 @@ export default {
       fontFamily: {
         audiowide: ['Audiowide', 'system-ui', 'sans-serif'],
         montserrat: ['Montserrat', 'system-ui', 'sans-serif'],
+        aboreto: ['Aboreto', 'display'],
+        aldrich: ['Aldrich', 'sans-serif'],
+        'zen-tokyo-zoo': ['Zen Tokyo Zoo', 'display'],
         sans: ['system-ui', 'sans-serif'],
       },
       borderRadius: {
