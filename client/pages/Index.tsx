@@ -56,10 +56,10 @@ export default function Index() {
           <div className="hidden lg:block lg:flex-1">
             {/* Placeholder for decorative aquatic element */}
             <div className="w-full h-96 opacity-50">
-              <img 
-                src="https://api.builder.io/api/v1/image/assets/TEMP/14afe3b41275e4e523bc26ced3c1a1714afecf72?width=1794" 
-                alt="Decorative aquatic element" 
-                className="w-full h-full object-contain"
+              <img
+                src="https://cdn.builder.io/api/v1/image/assets%2F3099c1fdf8f64b89bd97f2b47537b6c2%2Fa971d16495964651af23d17bc2b1dded"
+                alt="Decorative aquatic element"
+                className="w-full h-auto object-contain flex-grow -ml-1"
               />
             </div>
           </div>
