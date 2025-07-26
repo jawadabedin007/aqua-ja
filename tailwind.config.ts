@@ -69,6 +69,11 @@ export default {
           beige: "hsl(var(--aqua-beige))",
         },
       },
+      fontFamily: {
+        audiowide: ['Audiowide', 'system-ui', 'sans-serif'],
+        montserrat: ['Montserrat', 'system-ui', 'sans-serif'],
+        sans: ['system-ui', 'sans-serif'],
+      },
       borderRadius: {
         lg: "var(--radius)",
         md: "calc(var(--radius) - 2px)",
