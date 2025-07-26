@@ -17,7 +17,7 @@ export default function Categories() {
     <div className="min-h-screen bg-aqua-dark relative overflow-hidden">
       {/* Background decorative wave */}
       <div className="absolute inset-0 opacity-80">
-        <div className="absolute top-0 left-0 w-full h-[60%] bg-aqua-light transform rotate-[8deg] origin-left scale-110 -translate-y-20"></div>
+        <div className="absolute top-[93px] -left-6 w-[1417px] h-[60%] bg-aqua-light transform rotate-[8deg] origin-left scale-110 -translate-y-20"></div>
       </div>
 
       {/* Main Content */}
@@ -123,10 +123,10 @@ export default function Categories() {
 
         {/* Decorative fish image */}
         <div className="hidden lg:block absolute bottom-0 right-0 w-96 h-96 opacity-30 pointer-events-none">
-          <img 
-            src="https://api.builder.io/api/v1/image/assets/TEMP/14afe3b41275e4e523bc26ced3c1a1714afecf72?width=1794" 
-            alt="Decorative aquatic element" 
-            className="w-full h-full object-contain transform rotate-90"
+          <img
+            src="https://api.builder.io/api/v1/image/assets/TEMP/14afe3b41275e4e523bc26ced3c1a1714afecf72?width=1794"
+            alt="Decorative aquatic element"
+            className="w-full h-full object-contain transform rotate-90 mt-14 ml-16"
           />
         </div>
       </div>
