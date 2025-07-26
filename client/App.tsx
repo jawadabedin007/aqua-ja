@@ -14,9 +14,9 @@ function App() {
         <Route path="/topic/:id" element={<Topic />} />
         
         {/* Placeholder routes for navigation items */}
-        <Route path="/login" element={<Placeholder title="Login" message="Login functionality coming soon!" />} />
-        <Route path="/profile" element={<Placeholder title="Profile" message="Profile page is under construction" />} />
-        <Route path="/info" element={<Placeholder title="Info" message="Information page is being prepared" />} />
+        <Route path="/login" element={<Placeholder title="Login" message=" functionality coming soon!" />} />
+        <Route path="/profile" element={<Placeholder title="Profile" message=" page is under construction" />} />
+        <Route path="/info" element={<Placeholder title="Info" message=" page is being prepared" />} />
         
         {/* 404 and catch-all */}
         <Route path="*" element={<NotFound />} />
